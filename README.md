@@ -2,7 +2,7 @@
 
 ## **1) Install Dart**
 
-### **a). Windows (_eww_)**
+### **a) Windows (_eww_)**
 
 1.  Install **Chocolatey** by entering the following in _Command Prompt_ (**not PowerShell**):
 
